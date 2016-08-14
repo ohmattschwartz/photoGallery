@@ -1,0 +1,66 @@
+/* reset */
+p, h1, h2, img {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #55B7FF;
+  height: 70px;
+  padding: 50px;
+  font-size: 20px;
+  color: white;
+  border-bottom: 1px solid grey;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.albums {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 100px;
+}
+
+.album {
+  margin: 10px;
+  border: 2px solid grey;
+  border-radius: 3px;
+
+
+}
+.album img {
+  height: 200px;
+  width: 200px;
+}
+
+h2 {
+  margin: inherit;
+  padding: 10px;
+  background-color: #55B7FF;
+  color: white;
+  border-top: 1px solid grey;
+  font-size: 13px;
+  text-align: right;
+}
+
+.title {
+  border: 1px solid black;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  background-color: #55B7FF;
+  color: white;
+}
+
+.gallery {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: center;
+  display: flex;
+}

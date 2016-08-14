@@ -1,0 +1,105 @@
+.albumOne img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumOne {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.albumTwo img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumTwo {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.albumThree img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumThree {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.albumFour img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumFour {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.albumFive img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumFive {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.albumSix img {
+  height: 200px;
+  width: 200px;
+  margin: 6px;
+}
+
+.albumSix {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 100px;
+}
+
+.instructions {
+  border: none;
+  background-color: grey;
+  color: lightgrey;
+  padding: 7px;
+  padding-left: 50px;
+  padding-right: 40px;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.return {
+  border: none;
+  background-color: grey;
+  color: white;
+  padding: 7px;
+}
+
+.image img {
+  height: 440px;
+}
