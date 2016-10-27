@@ -6,10 +6,10 @@
 
 .albumOne {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .albumTwo img {
@@ -20,10 +20,10 @@
 
 .albumTwo {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .albumThree img {
@@ -34,10 +34,10 @@
 
 .albumThree {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .albumFour img {
@@ -48,10 +48,10 @@
 
 .albumFour {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .albumFive img {
@@ -62,10 +62,10 @@
 
 .albumFive {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .albumSix img {
@@ -76,10 +76,10 @@
 
 .albumSix {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding-bottom: 25px;
-  padding-top: 25px;
-  padding-left: 100px;
+  justify-content: space-around;
+  width: 75vw;
 }
 
 .instructions {
@@ -87,10 +87,9 @@
   background-color: grey;
   color: lightgrey;
   padding: 7px;
-  padding-left: 50px;
-  padding-right: 40px;
-  flex-wrap: wrap;
-  margin: auto;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .return {
